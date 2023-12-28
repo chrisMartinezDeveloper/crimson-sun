@@ -1,0 +1,21 @@
+{
+  "name": "crimson-sun",
+  "displayName": "Crimson Sun",
+  "description": "Red and Gold",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Crimson Sun",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Crimson Sun-color-theme.json"
+      }
+    ]
+  }
+}

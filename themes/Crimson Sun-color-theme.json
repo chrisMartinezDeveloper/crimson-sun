@@ -2,42 +2,42 @@
 	"name": "Crimson Sun",
 	"colors": {
 		"window.activeBorder": "#010f1a",
-		"focusBorder": "#f6c99f",
+		"focusBorder": "#d6b89a",
 		"icon.foreground": "#a8bacb",
-		"titleBar.activeBackground": "#172220",
+		"titleBar.activeBackground": "#1e0d08",
 		"titleBar.activeForeground": "#a8bacb",
-		"activityBar.background": "#172220",
+		"activityBar.background": "#1e0d08",
 		"activityBar.border": "#83714d80",
-		"activityBar.foreground": "#f6c99f",
-		"activityBarBadge.foreground": "#f6c99f",
-		"toolbar.hoverOutline": "#f6c99f",
-		"debugToolBar.border": "#f6c99f",
-		"sideBar.background": "#172220",
+		"activityBar.foreground": "#d6b89a",
+		"activityBarBadge.foreground": "#d6b89a",
+		"toolbar.hoverOutline": "#d6b89a",
+		"debugToolBar.border": "#d6b89a",
+		"sideBar.background": "#1e0d08",
 		"sideBar.border": "#83714d80",
 		"list.hoverBackground": "#3c625797",
-		"list.hoverForeground": "#f6c99f",
+		"list.hoverForeground": "#d6b89a",
 		"list.activeSelectionBackground": "#3c62578c",
-		"list.activeSelectionForeground": "#f6c99f",
+		"list.activeSelectionForeground": "#d6b89a",
 		"list.inactiveSelectionBackground": "#3c62578c",
 		"list.focusOutline": "#223e54",
 		"list.focusHighlightForeground": "#d00000",
-		"editorGroupHeader.tabsBackground": "#172220",
+		"editorGroupHeader.tabsBackground": "#1e0d08",
 		"editorGroupHeader.tabsBorder": "#83714d80",
 		"tab.activeBackground": "#3c625797",
-		"tab.activeForeground": "#f6c99f",
-		"tab.inactiveBackground": "#172220",
-		"tab.inactiveForeground": "#a8bacb80",
+		"tab.activeForeground": "#d6b89a",
+		"tab.inactiveBackground": "#1e0d08",
+		"tab.inactiveForeground": "#d2c2c47b",
 		"tab.border": "#6a5a3a80",
-		"editor.background": "#172220",
-		"editor.foreground": "#f6c99f",
-		"editorLineNumber.foreground": "#a8bacb80",
-		"editorLineNumber.activeForeground": "#f6c99f",
-		"editor.lineHighlightBorder": "#4b617580",
-		"editorCursor.background": "#a8bacb80",
-		"editorCursor.foreground": "#f6c99f",
+		"editor.background": "#1e0d08",
+		"editor.foreground": "#d6b89a",
+		"editorLineNumber.foreground": "#d2c2c456",
+		"editorLineNumber.activeForeground": "#d6b89a",
+		"editor.lineHighlightBorder": "#504344a0",
+		"editorCursor.background": "#d2c2c47b",
+		"editorCursor.foreground": "#d6b89a",
 		"editorGroup.dropBackground": "#88765130",
 		"editor.wordHighlightBackground": "#386ea165",
-		"editor.selectionHighlightBackground": "#f6c99f50",
+		"editor.selectionHighlightBackground": "#d6b89a50",
 		"editorGroup.border": "#83714d80",
 		"editorBracketHighlight.foreground1": "#7c5a61e3",
 		"editorBracketHighlight.foreground2": "#7c5a61e3",
@@ -51,8 +51,8 @@
 		"scrollbarSlider.background": "#c2e6d53b",
 		"scrollbarSlider.hoverBackground": "#b29f7c30",
 		"scrollbarSlider.activeBackground": "#83714d6a",
-		"activityBarBadge.background": "#172220",
-		"sideBarTitle.foreground": "#f6c99f"
+		"activityBarBadge.background": "#1e0d08",
+		"sideBarTitle.foreground": "#d6b89a"
 	  },
 	  "tokenColors": [
 		{
@@ -60,7 +60,7 @@
 		  "scope": ["comment", "punctuation.definition.comment"],
 		  "settings": {
 			"fontStyle": "italic",
-			"foreground": "#a8bacb80"
+			"foreground": "#685758"
 		  }
 		},
 		{
@@ -81,7 +81,7 @@
 		  "name": "Strings",
 		  "scope": ["punctuation.definition.string"],
 		  "settings": {
-			"foreground": "#f6c99f"
+			"foreground": "#d6b89a"
 		  }
 		},
 		{
@@ -102,7 +102,7 @@
 		  "name": "Keyword, Storage",
 		  "scope": ["keyword", "storage.type", "storage.modifier"],
 		  "settings": {
-			"foreground": "#f6c99f"
+			"foreground": "#d6b89a"
 		  }
 		},
 		{
@@ -111,7 +111,7 @@
 			"keyword.control",
 		  ],
 		  "settings": {
-			"foreground": "#f6c99f"
+			"foreground": "#d6b89a"
 		  }
 		},
 		{
@@ -121,7 +121,7 @@
 			"punctuation.definition.tag.end.html",
 		  ],
 		  "settings": {
-			"foreground": "#cb96ff6a"
+			"foreground": "#c57ca06a"
 		  }
 		},
 		{
@@ -130,7 +130,7 @@
 			"punctuation.definition.tag",
 		  ],
 		  "settings": {
-			"foreground": "#cb96ff6a"
+			"foreground": "#c57ca06a"
 		  }
 		},
 		{
@@ -139,7 +139,7 @@
 			"meta.tag",
 		  ],
 		  "settings": {
-			"foreground": "#f6c99f"
+			"foreground": "#d6b89a"
 		  }
 		},
 		{
@@ -168,7 +168,7 @@
 		  "name": "Class",
 		  "scope": ["storage.type.class", "storage.modifier"],
 		  "settings": {
-			"foreground": "#f6c99f"
+			"foreground": "#d6b89a"
 		  }
 		},
 		{
@@ -179,7 +179,7 @@
 			"markup.deleted.git_gutter"
 		  ],
 		  "settings": {
-			"foreground": "#cb96ff"
+			"foreground": "#ff70ae"
 		  }
 		},
 		{
@@ -192,14 +192,14 @@
 			"keyword.other.special-method"
 		  ],
 		  "settings": {
-			"foreground": "#ef739fe1"
+			"foreground": "#f26f75e1"
 		  }
 		},
 		{
 		  "name": "Function, Special Method",
 		  "scope": ["entity.name.type.class", "support.class.component"],
 		  "settings": {
-			"foreground": "#f6c99f"
+			"foreground": "#d6b89a"
 		  }
 		},
 		{
@@ -220,7 +220,7 @@
 		  "name": "Keyword: This",
 		  "scope": ["variable.language.this"],
 		  "settings": {
-			"foreground": "#f6c99f"
+			"foreground": "#d6b89a"
 		  }
 		},
 		{
@@ -268,7 +268,7 @@
 			"variable.other.property"
 		  ],
 		  "settings": {
-			"foreground": "#f6c99f"
+			"foreground": "#d6b89a"
 		  }
 		},
 		{
@@ -298,7 +298,7 @@
 			"support.type.sys-types"
 		  ],
 		  "settings": {
-			"foreground": "#f6c99f"
+			"foreground": "#d6b89a"
 		  }
 		},
 		{
@@ -363,14 +363,14 @@
 		  "name": "Attributes",
 		  "scope": ["entity.other.attribute-name"],
 		  "settings": {
-			"foreground": "#E59071F3"
+			"foreground": "#ee9487f3"
 		  }
 		},
 		{
 		  "name": "HTML Text",
 		  "scope": ["text.html.derivative"],
 		  "settings": {
-			"foreground": "#f6c99f"
+			"foreground": "#d6b89a"
 		  }
 		},
 		{
@@ -381,7 +381,7 @@
 		  ],
 		  "settings": {
 			"fontStyle": "italic",
-			"foreground": "#f6c99f"
+			"foreground": "#d6b89a"
 		  }
 		},
 		{
@@ -395,14 +395,14 @@
 		  "name": "CSS ID Attributes",
 		  "scope": ["entity.other.attribute-name.id.css"],
 		  "settings": {
-			"foreground": "#f6c99f"
+			"foreground": "#d6b89a"
 		  }
 		},
 		{
 		  "name": "CSS Classes",
 		  "scope": ["entity.other.attribute-name.class"],
 		  "settings": {
-			"foreground": "#f6c99f"
+			"foreground": "#d6b89a"
 		  }
 		},
 		{
@@ -674,7 +674,7 @@
 		  "name": "Markdown - Link Anchor",
 		  "scope": ["constant.other.reference.link.markdown"],
 		  "settings": {
-			"foreground": "#f6c99f"
+			"foreground": "#d6b89a"
 		  }
 		},
 		{

@@ -1,10 +1,10 @@
 {
   "name": "crimson-sun",
   "displayName": "Crimson Sun",
-  "description": "Red and Gold",
+  "description": "Red and gold color theme",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.85.0"
+    "vscode": "^1.96.0"
   },
   "categories": [
     "Themes"

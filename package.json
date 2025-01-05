@@ -2,10 +2,30 @@
   "name": "crimson-sun",
   "displayName": "Crimson Sun",
   "description": "Red and gold color theme",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.96.0"
+  "version": "1.0.0",
+  "publisher": "chrisMartinezDev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisMartinezDeveloper/crimson-sun.git"
   },
+  "keywords": [
+    "red",
+    "gold",
+    "crimson",
+    "sun",
+    "crimson sun",
+    "color theme",
+    "color",
+    "dark",
+    "theme",
+    "dark theme",
+    "chrisMartinezDev",
+    "chrisMartinezDev dark"
+  ],
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "icon": "src/photos/icon.png",
   "categories": [
     "Themes"
   ],

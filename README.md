@@ -2,7 +2,7 @@
 
 Visit [Visual Studio Code Extension Marketplace](https://marketplace.visualstudio.com/items?itemName=ChrisMartinezDev.crimson-sun&ssr=false#overview)
 
-If you have a suggestion for a potential improvement, feel free to levae it in the Q&A section.
+If you have any suggestions for potential improvements, feel free to leave it in the Q&A section.
 
 ### JS
 

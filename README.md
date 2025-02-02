@@ -2,6 +2,8 @@
 
 Visit [Visual Studio Code Extension Marketplace](https://marketplace.visualstudio.com/items?itemName=ChrisMartinezDev.crimson-sun&ssr=false#overview)
 
+If you have a suggestion for a potential improvement, feel free to levae it in the Q&A section.
+
 ### JS
 
 <img alt="JS Source Code" src="./src/photos/js.png" width="500px" height="auto">
